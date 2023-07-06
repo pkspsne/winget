@@ -1,0 +1,4 @@
+AivarAnnamaa.Thonny
+Insomnia.Insomnia
+Microsoft.VisualStudioCode
+Microsoft.XMLNotepad
