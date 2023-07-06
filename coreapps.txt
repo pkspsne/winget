@@ -1,0 +1,8 @@
+7zip.7zip
+DuongDieuPhap.ImageGlass
+Microsoft.PowerShell
+Mozilla.Firefox
+Notepad++.Notepad++
+PuTTY.PuTTY
+VideoLAN.VLC
+WinDirStat.WinDirStat
